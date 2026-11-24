@@ -1,0 +1,12 @@
+
+command:
+  - streamlit
+  - run
+  - app.py
+
+env:
+  - name: TELCO_JOB_ID
+    valueFrom: telco-job
+
+  - name: TELCO_VOLUME
+    valueFrom: volume
