@@ -1,0 +1,8 @@
+metric,value
+total,7043.0
+predicted_stay,5576.0
+predicted_churn,1467.0
+mean_churn_probability_percent,26.517796393582284
+risk_low,4310.0
+risk_medium,2527.0
+risk_high,206.0
